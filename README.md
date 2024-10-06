@@ -15,7 +15,7 @@ pip install -r requirements.txt
 1. Clone repository
 
 ```bash
-git clone https://github.com/sarsembek/data_storage.git
+git clone https://github.com/aydarbek30/Data_Storage.git
 cd Data Storage
 ```
 2. Create a virtual environment:
